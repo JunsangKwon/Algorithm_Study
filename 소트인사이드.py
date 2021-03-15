@@ -1,3 +1,4 @@
+# sol. 문자열 -> 숫자 -> 내림차순 정렬 -> 문자열
 numstr = input()
 numlist = []
 for i in numstr:

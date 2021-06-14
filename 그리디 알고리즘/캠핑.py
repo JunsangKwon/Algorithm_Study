@@ -1,7 +1,6 @@
 import sys
 
 cycle = 0
-useday = 0
 answer = []
 
 while(True):

@@ -37,4 +37,10 @@
 |14|PROGRAMMERS|가운데 글자 가져오기|연습문제|6/16|
 |15|PROGRAMMERS|K번째 수|정렬|6/16|
 |16|PROGRAMMERS|키패드 누르기|2020 카카오 인턴십|6/16|
+|17|PROGRAMMERS|모의고사|완전탐색|6/17|
+|18|PROGRAMMERS|로또의 최고순위와 최저순위|2021 Dev-Matching|6/17|
+|19|PROGRAMMERS|내적|월간 코드 챌린지|6/18|
+|20|PROGRAMMERS|음양 더하기|월간 코드 챌린지|6/18|
+|21|PROGRAMMERS|두개 뽑아서 더하기|월간 코드 챌린지|6/18|
+
 

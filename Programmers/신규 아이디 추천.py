@@ -20,7 +20,9 @@ def solution(new_id):
             continue
         idlist[i] = 'A'
 
-    idlist.replace('A', '')
+    for i in range(len(idlist)):
+        if(idlist[i] == 'A'):
+            idlist[i] = ""
 
     # 3단계
     for s in idlist:

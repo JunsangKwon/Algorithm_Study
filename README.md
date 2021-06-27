@@ -44,5 +44,18 @@
 |21|PROGRAMMERS|두개 뽑아서 더하기|월간 코드 챌린지|6/18|
 |22|PROGRAMMERS|같은 숫자는 싫어|연습 문제|6/21|
 |23|PROGRAMMERS|최대값과 최솟값|연습 문제|6/22|
+|24|PROGRAMMERS|가장 큰 수|정렬|6/23|
+|25|PROGRAMMERS|2016년|연습 문제|6/27|
+|26|PROGRAMMERS|예산|Summer/Winter Coding(~2018)|6/27|
+|27|PROGRAMMERS|체육복|그리디|6/27|
+|28|PROGRAMMERS|나누어 떨어지는 숫자배열|연습 문제|6/27|
+|29|PROGRAMMERS|두 정수 사이의 합|연습 문제|6/27|
+|30|PROGRAMMERS|문자열 내 p와 y의 개수|연습 문제|6/27|
+|31|PROGRAMMERS|문자열 내림차순으로 배치하기|연습 문제|6/27|
+|32|PROGRAMMERS|문자열 다루기 기본|연습 문제|6/27|
+|33|PROGRAMMERS|서울에서 김서방 찾기|연습 문제|6/27|
+|34|PROGRAMMERS|시저암호|연습 문제|6/27|
+|35|PROGRAMMERS|수박수박수박수박수박수?|연습 문제|6/27|
+|36|PROGRAMMERS|문자열을 정수로 바꾸기|연습 문제|6/27|
 
 

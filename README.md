@@ -16,6 +16,7 @@
 - 권준상(20210609~0905) https://github.com/JunsangKwon/Algorithm_Study + 4일
 - 박준형(20210610~0906) https://github.com/Junbro0708/Algorithm_CPP + 5일
 - 이영훈(20210610~0906) https://github.com/dudgns5845/AlgorithmStudy + 5일
+- 황상진(20210627~0922) https://github.com/Hwang-Sangjin/Algorithm + 21일
 
 # 내가 푼 문제
 
@@ -70,4 +71,7 @@
 |47|PROGRAMMERS|자연수 뒤집어 배열로 만들기|연습 문제|6/29|
 |48|PROGRAMMERS|정수 내림차순으로 배치하기|연습 문제|6/29|
 |49|PROGRAMMERS|정수 제곱근 판별|연습 문제|6/29|
+|50|PROGRAMMERS|기능 개발|스택/큐|6/29|
+|51|PROGRAMMERS|주식 가격|스택/큐|6/30|
+|52|PROGRAMMERS|프린터|스택/큐|6/30|
 

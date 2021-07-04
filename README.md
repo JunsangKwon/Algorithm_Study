@@ -75,4 +75,11 @@
 |51|PROGRAMMERS|주식 가격|스택/큐|6/30|
 |52|PROGRAMMERS|프린터|스택/큐|6/30|
 |53|PROGRAMMERS|오픈채팅방|2019 KAKAO BLIND RECRUITMENT|7/1|
+|54|PROGRAMMERS|크레인 인형뽑기 게임|2019 카카오 개발자 겨울 인턴십|7/2|
+|55|PROGRAMMERS|다트 게임|2018 KAKAO BLIND RECRUITMENT|7/2|
+|56|PROGRAMMERS|약수의 개수와 덧셈|월간 코드 챌린지 시즌 2|7/4|
+|57|PROGRAMMERS|3진법 뒤집기|월간 코드 챌린지 시즌 1|7/4|
+|58|PROGRAMMERS|소수 만들기|Summer/Winter Coding(~2018)|7/4|
+|59|PROGRAMMERS|폰켓몬|찾아라 프로그래밍 마에스터|7/4|
+
 

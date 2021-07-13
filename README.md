@@ -90,3 +90,8 @@
 |66|PROGRAMMERS|짝수와 홀수|연습문제|7/10|
 |67|PROGRAMMERS|콜라츠 추측|연습문제|7/10|
 |68|PROGRAMMERS|평균 구하기|연습문제|7/10|
+|69|PROGRAMMERS|직사각형 별찍기|연습문제|7/12|
+|70|PROGRAMMERS|x만큼 간격이 있는 n개의 숫자|연습문제|7/12|
+|71|PROGRAMMERS|핸드폰 번호 가리기|연습문제|7/14|
+|72|PROGRAMMERS|행렬의 덧셈|연습문제|7/14|
+|73|PROGRAMMERS|하샤드 수|연습문제|7/14|

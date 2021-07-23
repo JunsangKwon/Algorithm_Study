@@ -98,3 +98,8 @@
 |74|PROGRAMMERS|실패율|2019 KAKAO BLIND RECRUITMENT|7/15|
 |75|PROGRAMMERS|비밀 지도|2018 KAKAO BLIND RECRUITMENT|7/15|
 |76|PROGRAMMERS|문자열 내 마음대로 정렬하기|연습문제|7/15|
+|77|PROGRAMMERS|이상한 문자 만들기|연습문제|7/23|
+|78|PROGRAMMERS|숫자 문자열과 영단어|2021 카카오 채용연계형 인턴십|7/23|
+|79|PROGRAMMERS|H-Index|정렬|7/23|
+|80|PROGRAMMERS|스킬 트리|Summer/Winter Coding(~2018)|7/23|
+|81|PROGRAMMERS|올바른 괄호|연습문제|7/23|

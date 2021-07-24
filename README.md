@@ -103,3 +103,5 @@
 |79|PROGRAMMERS|H-Index|정렬|7/23|
 |80|PROGRAMMERS|스킬 트리|Summer/Winter Coding(~2018)|7/23|
 |81|PROGRAMMERS|올바른 괄호|연습문제|7/23|
+|82|PROGRAMMERS|최솟값 만들기|연습문제|7/24|
+|83|PROGRAMMERS|124 나라의 숫자|연습문제|7/25|

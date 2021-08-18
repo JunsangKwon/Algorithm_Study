@@ -105,3 +105,7 @@
 |81|PROGRAMMERS|올바른 괄호|연습문제|7/23|
 |82|PROGRAMMERS|최솟값 만들기|연습문제|7/24|
 |83|PROGRAMMERS|124 나라의 숫자|연습문제|7/25|
+|84|PROGRAMMERS|숫자의 표현|연습문제|7/28|
+|85|PROGRAMMERS|피보나치 수|연습문제|7/28|
+|86|PROGRAMMERS|소수 찾기|연습문제|7/28|
+|87|PROGRAMMERS|JadenCase 문자열 만들기|연습문제|7/28|

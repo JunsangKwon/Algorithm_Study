@@ -2,7 +2,6 @@ from collections import deque
 from sys import stdin
 
 queue = deque()
-commands = []
 answer = []
 
 

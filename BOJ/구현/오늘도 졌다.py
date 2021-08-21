@@ -15,6 +15,6 @@ for i in range(9):
     startlink_score += startlink[i]
 
 if is_reversal:
-    print("YES")
+    print("Yes")
 else:
-    print("NO")
+    print("No")

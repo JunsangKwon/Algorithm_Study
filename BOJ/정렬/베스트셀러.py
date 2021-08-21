@@ -8,4 +8,4 @@ for i in range(n):
 
 frequency = Counter(books).most_common()
 frequency.sort(key=lambda x: (-x[1], x[0]))
-print(frequency)
+print(frequency[0][0])

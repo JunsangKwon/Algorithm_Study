@@ -28,7 +28,7 @@ check_num = list(map(int, input().split()))
 for i in range(m):
     target = check_num[i]
     answer.append(binary_search_and_count(
-        card_num, target, card_prequncy, 0, n))
+        card_num, target, card_prequncy, 0, n-1))
 
 for a in answer:
     print(a, end=' ')

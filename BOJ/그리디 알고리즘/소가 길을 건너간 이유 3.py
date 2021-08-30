@@ -19,5 +19,3 @@ for i in range(n):
             cow_list[i+1][0] = sum(cow_list[i])
         else:
             continue
-
-print(cow_list)

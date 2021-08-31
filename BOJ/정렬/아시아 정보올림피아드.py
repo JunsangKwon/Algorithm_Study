@@ -27,5 +27,3 @@ else:
 
 for i in range(len(winners)):
     print("%d %d" % (winners[i][0], winners[i][1]))
-
-print(records)

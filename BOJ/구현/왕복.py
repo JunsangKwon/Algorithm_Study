@@ -7,7 +7,6 @@ ans = 0
 
 for i in range(len(course)):
     total += course[i]
-    print(total)
     if total < k:
         continue
     elif total == k:
@@ -18,7 +17,6 @@ for i in range(len(course)):
         else:
             ans = i + 2
         break
-
     else:
         if i > n-1:
             ans = 2 * n - i

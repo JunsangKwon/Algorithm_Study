@@ -27,5 +27,4 @@ for i in range(len(sentence)):
 if is_final_alpha:
     new_sentence += tmp_sentence[::-1]
 
-
 print(new_sentence)

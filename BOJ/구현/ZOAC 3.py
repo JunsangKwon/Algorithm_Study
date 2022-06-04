@@ -54,13 +54,11 @@ for i in range(len(target)):
         coor = find_coordinate(target[i], True)
         time += (abs(coor[0] - left_prev_coor[0]) +
                  abs(coor[1] - left_prev_coor[1]) + 1)
-        print(coor)
         left_prev_coor = coor
     else:
         coor = find_coordinate(target[i], False)
         time += (abs(coor[0] - right_prev_coor[0]) +
                  abs(coor[1] - right_prev_coor[1]) + 1)
-        print(coor)
         right_prev_coor = coor
 
 print(time)

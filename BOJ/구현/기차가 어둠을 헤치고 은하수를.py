@@ -28,5 +28,4 @@ for i in range(n):
         pass_train_set.append(train_set[i])
         pass_train += 1
 
-print(train_set)
 print(pass_train)

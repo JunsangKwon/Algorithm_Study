@@ -20,7 +20,6 @@ def find_rock(ri, rj, index, color):
         else:
             break
 
-    print(rocks)
     if len(rocks) == 5:
         rocks.sort(key=lambda x: x[1])
         fi = rocks[0][0] - di[index]

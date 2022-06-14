@@ -56,8 +56,3 @@ for i in range(h):
                 right_count = 0
 
 print(rain)
-
-for i in range(h):
-    for j in range(w):
-        print(world[i][j], end="")
-    print()

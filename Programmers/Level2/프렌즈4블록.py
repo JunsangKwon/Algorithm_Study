@@ -44,8 +44,7 @@ def solution(m, n, board):
                 if board_list[j][i] == '*' and board_list[j-1][i] != '*':
                     index = j
                     while index <= m - 1 and board_list[index][i] == '*':
-                        board_list[index][i], board_list[index -
-                                                         1][i] = board_list[index-1][i], board_list[index][i]
+                        board_list[index][i], board_list[index -1][i] = board_list[index-1][i], board_list[index][i]
                         index += 1
 
         vanish_coor.clear()

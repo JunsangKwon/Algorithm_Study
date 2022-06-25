@@ -26,7 +26,6 @@ while True:
     for i in range(n):
         stack = [nums[i]]
         for j in range(len(program)):
-            print(stack)
             if program[j][0] == 'NUM':
                 stack.append(int(program[j][1]))
             elif program[j][0] == 'POP':
@@ -76,7 +75,7 @@ while True:
                 new = first * second
                 stack.append(new)
             elif program[j][0] == 'DIV':
-                irst_sign = 1
+                first_sign = 1
                 second_sign = 1
                 if len(stack) < 2:
                     stack.clear()
@@ -129,7 +128,7 @@ while True:
                 stack.clear()
 
     print_list.append(' ')
-    input()
+    s = input()
 
 for i in range(len(print_list)):
     if print_list == ' ':

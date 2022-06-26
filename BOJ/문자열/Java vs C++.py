@@ -9,7 +9,7 @@ if determine == 1:
     word_list = var.split('_')
     java_value = ''
     for i in range(len(word_list)):
-        if word_list[i] == '' and not word_list[i].islower():
+        if word_list[i] == '' or not word_list[i].islower():
             isError = True
             break
         else:

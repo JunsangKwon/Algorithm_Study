@@ -9,7 +9,6 @@ for i in range(len(papers)):
     q.append([papers[i], i+1])
 
 while q:
-    print(q)
     paper = q[0][0]
     answer.append(q[0][1])
     q.popleft()
